@@ -1,7 +1,10 @@
 # Canarium-GBS
-Deren and Sarah learning about Canarium. ::rocket::
+Deren and Sarah learning about Canarium. 
+
+Hi Sarah  ::wave::  
 
 
-1. [species delimitation notebook](http://nbviewer.jupyter.org/github/sarahfederman/Canarium-GBS/blob/master/species-delimitation-ibpp.ipynb)  
-2. [concordance factor notebook](...)  
+[species delimitation notebook](http://nbviewer.jupyter.org/github/sarahfederman/Canarium-GBS/blob/master/species-delimitation-ibpp.ipynb)  
+[concordance factor notebook](http://nbviewer.jupyter.org/github/sarahfederman/Canarium-GBS/blob/master/concordance-factor-BUCKy.ipynb)   
+
 
