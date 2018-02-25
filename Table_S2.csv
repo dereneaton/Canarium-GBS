@@ -1,0 +1,35 @@
+Species,Total number of specimens known,Specimens in fruit, Specimens in flower (m),Sspecimens in flower (f),Specimens in phylogeny
+ampasindavae,1,0,0,0,0
+angulatum,1,0,0,0,0
+arcuatum,3,1,0,1,0
+bullatum,21,12,2,2,0
+findens,3,1,0,0,0
+indistinctum,1,1,0,0,0
+laxiflorum,1,0,0,0,0
+manongarivum,1,0,0,0,0
+moramangae,4,2,0,0,0
+obovatum,2,0,1,0,0
+pallidum,1,0,1,0,0
+subsidarium,5,3,1,0,0
+subtilis,3,3,0,0,0
+egregium,7,1,1,1,1
+elegans,9,4,2,0,1
+longistipulatum,13,4,5,0,1
+betamponae,12,6,0,0,2
+compressum,12,7,0,1,2
+ferrugineum,23,4,2,0,2
+galokense,6,1,1,0,2
+globosum,37,24,1,2,2
+multinervis,5,1,2,0,2
+obtusifolium,38,21,1,2,2
+pilicarpum,14,3,1,0,2
+planifolium,13,4,3,1,2
+scholasticum,53,36,4,3,2
+lamianum,98,63,9,1,3
+pulchrebracteatum,32,15,1,0,3
+velutinifolium,4,1,0,0,3
+multiflorum,49,27,0,2,6
+boivinii,4,3,1,0,0*
+madagascariense,2,1,0,0,0*
+ntidifolium,6,0,0,0,0*
+"#* sampled, but sequencing coverage insufficient for inclusion in the phylogeny",,,,,
