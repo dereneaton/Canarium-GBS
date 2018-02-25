@@ -1,10 +1,19 @@
 # Canarium-GBS
-Deren and Sarah learning about Canarium. ::rocket::
+
+Supplementary Notebooks and other materials for Federman et al. (xxxx) 
+"Reconciling Species Diversity in a Tropical Plant Clade (*Canarium*; Burseraceae)"
+
+::rocket::
 
 
-1. [ipyrad assembly notebook](http://nbviewer.jupyter.org/github/sarahfederman/Canarium-GBS/blob/master/Canarium-assembly.ipynb)  
-2. [bpp spp. delimitation notebook](http://nbviewer.jupyter.org/github/sarahfederman/Canarium-GBS/blob/master/species-delimitation-ibpp.ipynb)  
-3. [Bucky concordance notebook](http://nbviewer.jupyter.org/github/sarahfederman/Canarium-GBS/blob/master/concordance-tree-BUCKy.ipynb)   
-4. [ABBA/BABA notebook](http://nbviewer.jupyter.org/github/sarahfederman/Canarium-GBS/blob/master/abba-baba-Canarium.ipynb)   
+### Notebooks  
+1. [ipyrad assembly notebook](http://nbviewer.jupyter.org/github/sarahfederman/Canarium-GBS/blob/master/nb-1-ipyrad-assembly.ipynb)  
+2. [phylogenetic analysis notebook](http://nbviewer.jupyter.org/github/sarahfederman/Canarium-GBS/blob/master/nb-2-phylogeny-inference.ipynb)  
+3. [concordance analysis notebook](http://nbviewer.jupyter.org/github/sarahfederman/Canarium-GBS/blob/master/nb-3-concordance.ipynb)  
+4. [bpp spp. delimitation notebook](http://nbviewer.jupyter.org/github/sarahfederman/Canarium-GBS/blob/master/nb-4-BPP.ipynb)  
+5. [structure analysis notebook](http://nbviewer.jupyter.org/github/sarahfederman/Canarium-GBS/blob/master/nb-5-structure.ipynb)  
+6. [abba-baba notebook](http://nbviewer.jupyter.org/github/sarahfederman/Canarium-GBS/blob/master/nb-6-abba-baba.ipynb)   
+
+
 
 
