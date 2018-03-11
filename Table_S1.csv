@@ -1,0 +1,52 @@
+Genus,species_sensu_Daly,Herbarium,Accession,DNA_(ng/uL),Loci_min4_All,Loci_min4,Loci_min10,Loci_min20,Loci_min30no
+Canarium,bengalense,NYBG,D13852,38.9,13687,13704,10661,9126,nan
+Canarium,betamponae,NYBG,SF175,42.6,69099,69131,58085,42457,17460
+Canarium,betamponae,NYBG,SF328,63,80219,80255,63960,43052,17454
+Canarium,boivinii,NYBG,D12962,15.4,1981, nan, nan, nan, nan
+Canarium,compressum,NYBG,D13090,29.8,27541,27569,25231,21750,14599
+Canarium,compressum,NYBG,D13097,75.4,81399,81430,65918,43788,17537
+Canarium,egregium,NYBG,D13103,13.1,26359,26377,24078,21136,14419
+Canarium,elegans,NYBG,D12963,28.4,10141,10154,9264,7994,6453
+Canarium,ferrugineum,NYBG,D13053,23,21812,21837,20515,17755,12876
+Canarium,ferrugineum,NYBG,SF172,41,64881,64923,54780,41730,17585
+Canarium,ferrugineum,NYBG,SF343,31.8,894, nan, nan, nan, nan
+Canarium,galokense,NYBG,D13101,29.7,2860,2870,2618,2315,2115
+Canarium,galokense,NYBG,SF155,28.6,53298,53334,47608,38478,17545
+Canarium,globosum,NYBG,SF200,10.2,42029,42061,37261,31375,16789
+Canarium,globosum,NYBG,SF209,11.5,28325,28357,25258,21699,14183
+Canarium,indicum,NYBG,D13374,60.9,56701,56732,42046,32817, nan
+Canarium,lamianum,NYBG,D13063,36,28227,28257,26459,22846,15213
+Canarium,lamianum,NYBG,SF160,39,2856,2862,2685,2397,2058
+Canarium,lamianum,NYBG,SF327,15.5,72815,72852,62352,43655,17556
+Canarium,longistipulatum,NYBG,D12950,9.59,44861,44899,39590,32823,17240
+Canarium,madagascariense,NYBG,D13091,11.2,1059, nan, nan, nan, nan
+Canarium,multiflorum,NYBG,D14477,141,61515,61545,52170,41153,17565
+Canarium,multiflorum,NYBG,D14478,95.8,97836,97871,68689,44801,17532
+Canarium,multiflorum,NYBG,D14480,77.6,70588,70615,57691,42523,17522
+Canarium,multiflorum,NYBG,D14485,72,51841,51875,45308,37649,17423
+Canarium,multiflorum,NYBG,D14501,88.6,49981,50004,40529,33205,16504
+Canarium,multiflorum,NYBG,D14513,126,39505,39531,33134,27915,14872
+Canarium,multinervis,NYBG,D14482,76.6,69750,69775,59284,42840,17393
+Canarium,multinervis,NYBG,D14483,55.4,71352,71375,58884,42095,17347
+Canarium,multinervis,NYBG,D14492,44.6,1272, nan, nan, nan, nan
+Canarium,ntidifolium,NYBG,4304,6.86,7, nan, nan, nan, nan
+Canarium,obtusifolium,NYBG,SF224,13.6,81039,81067,65845,43851,17532
+Canarium,obtusifolium,NYBG,SF228,38.2,82338,82371,65808,43642,17506
+Canarium,odontophyllum,NYBG,SFC1988,20.4,51364,51391,42588,32067, nan
+Canarium,ovatum,NYBG,D14269,39.5,79114,79137,54504,36853, nan
+Canarium,pilicarpum,NYBG,5573,13.9,37672,37705,34743,29515,16912
+Canarium,pilicarpum,NYBG,D13052,38.6,75316,75357,61961,43535,17559
+Canarium,planifolium,NYBG,SF153,42.9,9269,9286,8557,7502,6101
+Canarium,planifolium,NYBG,SF164,61.4,69764,69801,58934,42601,17502
+Canarium,pulchrebracteatum,NYBG,D14528,48.6,26587,26615,23497,20059,13179
+Canarium,pulchrebracteatum,NYBG,SF276,13.7,82961,83000,65995,44172,17569
+Canarium,pulchrebracteatum,NYBG,SF286,54.6,78681,78722,63251,43774,17546
+Canarium,scholasticum,NYBG,D13075,8.64,4096,4104,3820,3340,2920
+Canarium,scholasticum,NYBG,SF197,89.6,82914,82936,65808,43731,17534
+Canarium,scholasticum,NYBG,SF301,40.2,785, nan, nan, nan, nan
+Canarium,velutinifolium,NYBG,D14504,106,77524,77560,61425,43077,17462
+Canarium,velutinifolium,NYBG,D14505,98,77445,77477,62023,43366,17512
+Canarium,velutinifolium,NYBG,D14506,50.8,60470,60503,52108,40672,17457
+Retained loci,-,-,-,-,2222030,2217227,1824925,1351131,571531
+## species designations were identified according to Daly et al. 2015,,,,,,,,,
+"## “Loci” columns show the number of loci recovered for each sample in each dataset. Several taxa were excluded for low data (nan), and outgroup samples were excluded from the Loci_min30no dataset. ",,,,,,,,,
