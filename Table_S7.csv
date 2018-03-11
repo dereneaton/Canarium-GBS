@@ -1,0 +1,21 @@
+,3 species,,4 species,,5 species,,6 species,
+Climatic Variable,     Comp1,       Comp2,      Comp1,       Comp2,      Comp1,       Comp2,      Comp1,       Comp2
+Precipitation of Driest Month,0.4,0.16,0.4,0.16,-0.43,-0.18,0.43,0.18
+Precipitation of Driest Quarter,0.31,0.19,0.31,0.19,-0.34,-0.22,0.34,0.22
+Temp Seasonality,0.43,0.14,0.43,0.15,-0.45,-0.15,0.45,0.15
+Precipitation of Coldest Quarter,-0.33,0.1,-0.33,0.1,0.33,-0.1,-0.33,0.1
+Precipitation of Warmest Quarter,0.09,-0.04,0.09,-0.05,-0.08,0.07,0.08,-0.08
+Annual Precipitation,-0.47,0.14,-0.47,0.15,0.46,-0.17,-0.46,0.17
+Precipitation of Wettest Quarter,0.48,-0.15,0.48,-0.16,-0.47,0.18,0.48,-0.18
+Precipitation of Wettest Month,-0.04,-0.01,-0.04,-0.02,0.06,0.05,-0.05,-0.05
+Temp Annual Range,-0.46,0.14,-0.46,0.14,0.45,-0.17,-0.45,0.17
+Min Temp of Coldest Month,-0.37,0.02,-0.37,0.02,0.39,0.01,-0.39,-0.01
+Mean Temp Wettest Quarter,-0.43,0.13,-0.43,0.14,0.42,-0.16,-0.42,0.16
+Mean Temp of warmest quarter,0.26,-0.15,0.26,-0.15,-0.26,0.15,0.27,-0.15
+Mean Diurnal Range,0.36,-0.12,0.36,-0.11,-0.34,0.17,0.33,-0.16
+Mean Temp Driest Quarter,-0.47,0.01,-0.47,-0.01,0.45,-0.07,-0.44,0.06
+Annual Mean Temp,0.47,0.14,0.47,0.14,-0.5,-0.18,0.5,0.17
+Isothermality,0.22,0.18,0.22,0.19,-0.23,-0.18,0.23,0.19
+Mean Temp of coldest quarter,0.15,-0.11,0.15,-0.12,-0.16,0.09,0.17,-0.1
+Max Temp of Warmest Motnh,0.29,0.19,0.29,0.2,-0.32,-0.22,0.32,0.22
+Precipitation Seasonality,0.33,0.17,0.33,0.18,-0.35,-0.18,0.35,0.18
