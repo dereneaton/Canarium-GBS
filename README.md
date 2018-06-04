@@ -1,5 +1,7 @@
 # *Canarium* species tree inference and delimitation
 
+[![DOI](https://zenodo.org/badge/70433285.svg)](https://zenodo.org/badge/latestdoi/70433285)
+
 Jupyter notebooks with documented code to reproduce results from 
 "Reconciling Species Diversity in a Tropical Plant Clade
  (*Canarium*; Burseraceae)" by Federman et al. (2018). 
