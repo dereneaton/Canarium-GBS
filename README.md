@@ -1,14 +1,13 @@
 # *Canarium* species tree inference and delimitation
 
-Jupyter notebooks for reproducibility of the study 
-["Reconciling Species Diversity in a Tropical Plant Clade (*Canarium*; Burseraceae)"]()
-by Federman et al. (2018). 
+Jupyter notebooks with documented code to reproduce results from 
+"Reconciling Species Diversity in a Tropical Plant Clade
+ (*Canarium*; Burseraceae)" by Federman et al. (2018). 
 
-
-The first notebook includes code to download the raw genomic data and assemble 
-it with *ipyrad*, and the subsequent notebooks include code to reproduce
+Notebook 1 includes code to download the raw archived genomic data and assemble 
+it with *ipyrad*, and subsequent notebooks include code to reproduce downstream
 analyses. All code makes use of *ipyrad* and the *ipyrad* analysis toolkit, and
-the notebooks include instructions on required software that can be installed 
+the notebooks include instructions for installing required software 
 using conda. 
 
 ::rocket::
